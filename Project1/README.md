@@ -1,0 +1,1 @@
+Uses Gemini but has it's own defined calculator tools for precise operations
